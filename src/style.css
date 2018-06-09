@@ -1,0 +1,24 @@
+
+
+.bg {
+    /* The image used */
+    background-image: url("img/nature1.jpg");
+
+    /* Full height */
+    height: 100%;
+    width: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: red;
+    height: 180px;
+    padding: 50px;
+}
+h3{
+    color: chocolate;
+    }
+
+
